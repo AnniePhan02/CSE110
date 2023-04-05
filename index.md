@@ -8,6 +8,7 @@ Hello, my name is Annie and I am currently a 2nd year computer science major at 
 
 ![MyPicture](CSE110ME.jpg)
 > Photo from a day out
+
 ## Coding
 My love for coding
 I also **love** coding. Similar to others, one of my first ever lines of code was: 
