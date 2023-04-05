@@ -6,7 +6,7 @@ Hello, my name is Annie and I am currently a 2nd year computer science major at 
 > - Hiking
 > - Eating out
 
-// insert image of myself
+![MyPicture](CSE110ME.jpg)
 
 ## Coding
 My love for coding
@@ -25,13 +25,7 @@ To learn more about my background, click here: [˚ʚ♡ɞ˚](https://evotekwomen
 ## Outside Hobbies
 In my free time, I enjoy figure skating, playing violin, and hanging out with friends. I skate almost everyday and it is an *amazing* stress reliever. I currently coach figure skating for students of all ages and abilities. It is one of my passions.
 
-// insert ice skating picture
-
-I also love hanging out with my friends.
-
-// insert bday picture
-
-//insert link here for surprise 
+![IceSkating](CSE110ICE.jpg) 
 
 
 ## My UCSD Experience
@@ -56,4 +50,4 @@ In the future, I hope to work in the tech industry after graduation. In order to
 I am excited for this upcoming quarter in CSE 110 and I can gain valuable experience that I can use elsewhere. 
 
 ## Other
-
+[My Hopes for CSE 110](other.md)

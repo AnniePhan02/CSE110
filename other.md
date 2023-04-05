@@ -1,0 +1,2 @@
+## CSE 110
+I hope that this quarter will be an exciting one. I am a little nervous about what this challenges I will have to overcome in this class but I am sure that I will learn a great amount. Thank you for reading and I hope that this will be a fun experience for everyone!
