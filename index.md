@@ -35,9 +35,9 @@ So far, I have been enjoying my UCSD experience. It is fun to meet new people an
 The quarter system does make everything feel a bit more fast paced. In order to stay in track, I have a daily to-do list which may look something like
 - [x] Get ready for the day
 - [x] Code
-- [ ] Go to class
+- [x] Go to class
 - [ ] Review Notes
-- [ ] Finish HW
+- [ ] Complete HW
 
 This daily to-do list has helped me stay productive and be a better student.
 
