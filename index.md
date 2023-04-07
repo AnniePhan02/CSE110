@@ -52,3 +52,5 @@ I am excited for this upcoming quarter in CSE 110 and I can gain valuable experi
 
 ## Other
 [My Hopes for CSE 110](other.md)
+
+[Go to the top](#annie-phan)
